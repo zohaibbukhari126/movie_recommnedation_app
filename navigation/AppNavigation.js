@@ -9,7 +9,6 @@ export default function AppNavigation() {
         <NavigationContainer>
             <Stack.Navigator>
                 <Stack.Screen name="HomeScreen" component={HomeScreen} />
-                
             </Stack.Navigator>
         </NavigationContainer>
     );
